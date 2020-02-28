@@ -4,8 +4,6 @@
 #                                                         #
 #   Random Number Gen creato da greco395.com              #
 #                                                         #
-#   Syle bootstrap ( https://github.com/twbs/bootstrap )  #
-#                                                         #
 ###########################################################
 */
 $righe = $_GET['num_righe'];
